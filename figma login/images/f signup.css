@@ -1,0 +1,275 @@
+
+
+#rec1
+{
+position: absolute;
+width: 640px;
+height: 832px;
+right: 0px;
+top:0px;
+
+background: #FF8A00;
+
+}
+
+#arrow
+{
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 20px;
+    top: 20px;
+    
+    
+}
+
+
+
+#homevec
+{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 100px;
+top: 20px;
+}
+
+
+
+#welcome
+{
+position: absolute;
+width: 286px;
+height: 40px;
+left: 275px;
+top: 106px;
+
+
+
+
+
+}
+#email
+{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top:372px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+}
+#rec5
+{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top:372px;
+
+
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+#phonenumber
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top:286px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+#rec6
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top:286px;
+
+
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+
+#name
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top: 200px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+#rec7
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top: 200px;
+
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+#pass1
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top: 458px;
+
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+
+#rec8
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top: 458px;
+
+
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+
+#pass2
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top: 544px;
+background: rgba(255, 138, 0, 0.35);
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+
+
+#rec9
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+left: 210px;
+top: 544px;
+
+
+border: 1px solid #FF8A00;
+border-radius: 6px;
+
+}
+
+
+
+#char
+
+{
+position: absolute;
+width: 200px;
+height: 13px;
+left: 210px;
+top: 515px;
+
+
+}
+
+
+
+
+
+
+#sign_up
+{
+    
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 395px;
+    top: 655px;
+    
+   
+}
+#rec4
+{
+
+position: absolute;
+width: 467px;
+height: 71px;
+left: 210px;
+top: 635px;
+
+background: #FF8A00;
+border-radius: 6px;
+}
+#login
+{
+
+position: absolute;
+width:200 px;
+height:20px;
+left: 595px;
+top:716px;
+
+
+
+
+}
+
+
+
+#girlbookpen
+{
+position: absolute;
+width: 172px;
+height: 456px;
+right: 200px;
+top: 195px;
+
+background: url(.png)
+}

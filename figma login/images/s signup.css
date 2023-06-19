@@ -1,0 +1,273 @@
+
+
+#rec01
+{
+position: absolute;
+width: 640px;
+height: 832px;
+left:0px;
+top:0px;
+
+
+
+}
+
+#arrow1
+{
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 20px;
+    top: 20px;
+    
+   
+    
+}
+
+
+
+#home
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 100px;
+    top: 20px;
+}
+
+
+#welcome
+
+{
+position: absolute;
+width: 286px;
+height: 40px;
+right:  300px;
+top: 96px;
+
+
+
+
+}
+#email1
+{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top:362px;
+
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+}
+#rec05
+{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top:362px;
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+#phonenumber1
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top:276px;
+
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+#rec06
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top:276px;
+
+
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+#name1
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top: 190px;
+
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+#rec07
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top: 190px;
+
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+#pass01
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top: 448px;
+
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+#rec08
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top: 448px;
+
+
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+#pass02
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right: 210px;
+top: 534px;
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+
+#rec09
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right: 210px;
+top: 534px;
+
+
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+
+
+#char1
+
+{
+position: absolute;
+width: 200px;
+height: 15px;
+right: 475px;
+top: 510px;
+
+}
+
+
+
+
+
+
+#sign_up1
+{
+    
+    position: absolute;
+    width: 100px;
+    height: 25px;
+    right: 420px;
+    top: 650px;
+    
+   
+    
+}
+#rec04
+{
+
+position: absolute;
+width: 467px;
+height: 71px;
+right:  210px;
+top: 625px;
+
+background: #0688FF;
+border-radius: 6px;
+}
+#login1
+{
+
+position: absolute;
+width:75px;
+height:20px;
+right: 215px;
+top:706px;
+
+
+
+
+}
+
+
+
+#youngman
+{
+position: absolute;
+width: 200px;
+height: 456px;
+left:225px;
+top: 195px;
+
+background: url(.png)
+}

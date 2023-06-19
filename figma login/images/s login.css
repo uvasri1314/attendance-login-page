@@ -1,0 +1,163 @@
+
+
+#rec01
+{
+position: absolute;
+width: 640px;
+height: 832px;
+left:0px;
+top:0px;
+ 
+
+
+
+}
+
+
+
+
+#home
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 25px;
+    top: 20px;
+}
+
+
+#hello
+
+{
+position: absolute;
+width: 286px;
+height: 40px;
+right:  300px;
+top: 106px;
+
+
+
+
+
+}
+#email1
+{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top:272px;
+
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+}
+#rec05
+{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top:272px;
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+
+#pass01
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top: 360px;
+
+background: rgba(6, 136, 255, 0.35);
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+#rec08
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 467px;
+height: 49px;
+right:  210px;
+top: 360px;
+
+
+border: 1px solid #0688FF;
+border-radius: 6px;
+
+}
+
+
+
+
+
+
+
+
+
+
+#login
+{
+    
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    right: 420px;
+    top: 485px;
+    
+    
+}
+#rec04
+{
+
+position: absolute;
+width: 467px;
+height: 71px;
+right:  210px;
+top: 460px;
+
+background: #0688FF;
+border-radius: 6px;
+}
+#ssignup
+{
+
+position: absolute;
+width:100px;
+height:20px;
+right: 215px;
+top:550px;
+
+
+
+
+}
+
+
+
+#youngpeople
+{
+position: absolute;
+width: 275px;
+height: 456px;
+left:200px;
+top: 195px;
+
+background: url(.png)
+}
